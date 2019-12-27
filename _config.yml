@@ -22,8 +22,8 @@ title: Víctor Enrique Alcázar López
 email: victorenriquealcazar@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Víctor Enrique Alcázar López's personal resume.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/resume" # the subpath of your site, e.g. /blog
+url: "https://vikepic.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  vikepic
 
 # Build settings
