@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Universitat Politècnica de Catalunya"
+date: "2014-09-01"
+date_end: "2018-06-01"
+tag: Education
+company: Computer Engineering Degree
+employment_type: 6,732/10 GPA
+location: Barcelona, Spain
+---

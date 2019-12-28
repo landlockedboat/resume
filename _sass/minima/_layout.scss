@@ -188,12 +188,24 @@
   @include relative-font-size(1.75);
 }
 
-.post-list {
+%big-list {
   margin-left: 0;
   list-style: none;
 
   > li {
     margin-bottom: $spacing-unit;
+  }
+}
+
+.post-list {
+  @extend %big-list;
+}
+
+.language-list {
+  @extend %big-list;
+
+  > li {
+    margin-bottom: $spacing-unit-small;
   }
 }
 
