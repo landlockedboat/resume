@@ -10,38 +10,25 @@ location: Barcelona, Spain
 excerpt: "Worked as a junior developer for e-tic sistemas at Grupo Godó. My responsibilities were working on the publishing software Mundo Deportivo's writers were using at the time, based on Java 7."
 ---
 
-Java Developer
-Company NameLTS Beratung GmbH Freelance
-Dates EmployedNov 2018 – Present
-Employment Duration1 yr 2 mos
-LocationBarcelona Area, Spain
-Working as a freelance developer for LTS Beratung.
-Mainly, what i'm doing here consists of backend work with Java.
+I worked as a junior developer for e-tic sistemas at Grupo Godó.
 
-I worked with the following technologies:
-· Java
-· Postman
+My responsibilities here were working on the editorial software Mundo Deportivo's writers are using, based on Java7.
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Technologies I used while working for Grupo Godó's Mundo Deportivo Web:
 
-Jekyll requires blog post files to be named according to the following format:
+* Java 7
+* Apache Velocity
+* Eidos Media Méthode
+* JST and JSTL
+* Jenkins
+* Jira
+* Gitlab
 
-`YEAR-MONTH-DAY-title.MARKUP`
+I recieved training in
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+* Git / git flow (2 hrs)
+* Data Science (2 hrs)
 
-Jekyll also offers powerful support for code snippets:
+I helped training the team in
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+* Vi/Vim Editor (2 hrs)
