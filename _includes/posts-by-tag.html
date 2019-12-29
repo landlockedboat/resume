@@ -17,8 +17,17 @@
   {% else %}
   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
   {% endif %}
-  <div class="post-meta">{{ post.date | date: date_format }} - {{ post.date_end | date: date_format }}</div>
-  <div class="post-meta">{{ post.company }} · {{ post.employment_type }}</div>
+  <div class="post-meta">
+    {{ post.date | date: date_format }}
+    {%- if post.date_end -%}
+    - {{ post.date_end | date: date_format }}
+    {%- endif -%}
+  </div>
+  <div class="post-meta">{{ post.company }}
+    {%- if post.employment_type -%}
+    &nbsp;· {{ post.employment_type }}
+    {%- endif -%}
+    </div>
   <div class="post-meta">{{ post.location }}</div>
   {%- if site.show_excerpts -%}
   <div>

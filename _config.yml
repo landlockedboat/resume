@@ -35,7 +35,7 @@ linkedin_username: victorenrique
 show_excerpts: true
 
 minima:
-  date_format: "%b %Y"
+  date_format: "%b %Y" 
 
 # Build settings
 theme: minima
