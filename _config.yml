@@ -24,7 +24,7 @@ email: victorenriquealcazar@gmail.com
 author: Víctor Enrique Alcázar López
 current_location: Mérida, Spain
 phone: "+34 688 895 746"
-webpage: "vikepic.github.io"
+webpage: https://vikepic.github.io
 
 description: >- # this means to ignore newlines until "baseurl:"
   Víctor Enrique Alcázar López's personal resume.

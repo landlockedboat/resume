@@ -11,6 +11,7 @@ layout: default
 
   {% include posts-by-tag.html tag_name="Experience" %}
   {% include posts-by-tag.html tag_name="Education" date_format="%Y" %}
+  {% include posts-by-tag.html tag_name="Scholarships and Certificates" date_format="%Y" %}
   {% include posts-by-tag.html tag_name="Awards" date_format="%Y" %}
 
   <h2 class="post-list-heading" id="languages">Languages</h2>
@@ -20,5 +21,40 @@ layout: default
     <li><b>English:</b> Fluent (C1)</li>
     <li><b>German:</b> Basic Knowledge (A2)</li>
   </ul>
+
+  <h2 class="post-list-heading">Technologies</h2>
+
+  <div class="skills-list-wrapper">
+    <ul class="skills-list">
+      {% include skill-list-item.html skill_name='Java' progress='80' %}
+      {% include skill-list-item.html skill_name='Javascript' progress='70' %}
+      {% include skill-list-item.html skill_name='C#' progress='70' %}
+      {% include skill-list-item.html skill_name='Kubernetes' progress='60' %}
+    </ul>
+  </div>
+
+
+  <div class="skill-cloud-wrapper">
+    <div class="skill-cloud">
+      <h3>Frontend</h3>
+      <code>Jekyll</code> <code>Javascript</code> <code>HTML</code> <code>CSS</code> <code>Angular</code>
+      <code>React</code>
+    </div>
+
+    <div class="skill-cloud">
+      <h3>Backend</h3>
+
+      <code>Java</code> <code>NodeJS</code> <code>C#</code> <code>Springboot</code> <code>AWS</code>
+      <code>Kubernetes</code> <code>Docker</code>
+    </div>
+
+    <div class="skill-cloud">
+      <h3>Video Game Development</h3>
+      <code>Unity3D</code> <code>Löve</code> <code>socket.io</code>
+    </div>
+  </div>
   <hr>
+  <div>
+    <a href="https://github.com/vikepic/resume">Get the source code</a>
+  </div>
 </div>

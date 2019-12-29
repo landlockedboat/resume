@@ -2,7 +2,7 @@
 layout: post
 title:  "Unity 3D Teacher"
 date: "2018-02-01"
-date_end: "1 mo"
+date_end: "2018-03-01"
 tag: Experience
 company: VGA FIB
 employment_type: Contract
